@@ -25,28 +25,28 @@
       "orderTotal": 8.98
     },
     {
-      "firstName": "Michelle",
-      "lastName": "Thompson",
-      "address": "345 Cedar point",
-      "city":"Encinitas",
-      "state": "California",
-      "item1":"Frisbee",
-      "item1Price":2.99,
-      "item2":"Hat",
-      "item2Price":5.99,
-      "orderTotal": 8.98
+      "firstName": "Mark",
+      "lastName": "Alen",
+      "address": "235 Miche point",
+      "city":"Alberroba",
+      "state": "Italy",
+      "item1":"Mat",
+      "item1Price":1.99,
+      "item2":"Fan",
+      "item2Price":4.99,
+      "orderTotal": 6.98
     },
     {
-      "firstName": "Michelle",
-      "lastName": "Thompson",
-      "address": "345 Cedar point",
-      "city":"Encinitas",
+      "firstName": "Alex",
+      "lastName": "Watt",
+      "address": "35 colan",
+      "city":"velixo",
       "state": "California",
-      "item1":"Frisbee",
-      "item1Price":2.99,
+      "item1":"Football",
+      "item1Price":3.99,
       "item2":"Hat",
       "item2Price":5.99,
-      "orderTotal": 8.98
+      "orderTotal": 9.98
     }
   ]
   
