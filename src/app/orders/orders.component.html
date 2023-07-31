@@ -1,0 +1,28 @@
+<section class="banner">
+    <h2>Orders</h2>
+    <br><br>
+    <ng-container *ngFor = "let cus of customerlist">
+    <h4>{{cus.firstName}} {{cus.lastName}}</h4>
+    <table class="table">
+    
+        <tbody>
+            <tr>
+                <td>{{cus.item1}}</td>
+                <td>${{cus.item1Price}}</td>
+            </tr>
+            <tr class="total">
+                <td>{{cus.item2}}</td>
+                <td>${{cus.item2Price}}</td>
+            </tr>
+            <tr >
+                <td>Total</td>
+                <td>${{cus.orderTotal}}</td>
+            </tr>
+          
+        </tbody>
+   
+      </table>
+<br><br><br>
+     
+    </ng-container>
+</section>

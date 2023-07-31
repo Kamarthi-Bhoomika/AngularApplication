@@ -1,0 +1,9 @@
+.banner{
+    width: 100%;
+    height: 80vh;
+    background-color: rgb(252, 250, 248);
+}
+
+.total{
+    border-color: black;
+}

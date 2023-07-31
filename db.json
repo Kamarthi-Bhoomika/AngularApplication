@@ -1,0 +1,54 @@
+{
+  "posts": [
+    {
+      "firstName": "Ted",
+      "lastName": "James",
+      "address": "1234 Anywhere",
+      "city":"Phoenix",
+      "state": "Arizona",
+      "item1":"Basket Ball",
+      "item1Price":7.99,
+      "item2":"Shoes",
+      "item2Price":199.99,
+      "orderTotal": 207.98
+    },
+    {
+      "firstName": "Michelle",
+      "lastName": "Thompson",
+      "address": "345 Cedar point",
+      "city":"Encinitas",
+      "state": "California",
+      "item1":"Frisbee",
+      "item1Price":2.99,
+      "item2":"Hat",
+      "item2Price":5.99,
+      "orderTotal": 8.98
+    },
+    {
+      "firstName": "Michelle",
+      "lastName": "Thompson",
+      "address": "345 Cedar point",
+      "city":"Encinitas",
+      "state": "California",
+      "item1":"Frisbee",
+      "item1Price":2.99,
+      "item2":"Hat",
+      "item2Price":5.99,
+      "orderTotal": 8.98
+    },
+    {
+      "firstName": "Michelle",
+      "lastName": "Thompson",
+      "address": "345 Cedar point",
+      "city":"Encinitas",
+      "state": "California",
+      "item1":"Frisbee",
+      "item1Price":2.99,
+      "item2":"Hat",
+      "item2Price":5.99,
+      "orderTotal": 8.98
+    }
+  ]
+  
+ 
+}

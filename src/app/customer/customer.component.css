@@ -1,0 +1,19 @@
+.banner{
+    width: 100%;
+    height: 80vh;
+    background-color: rgb(252, 250, 248);
+}
+ul{
+    display: flex;
+    
+}
+ul li{
+    margin-left: 20px;
+}
+tbody{
+    line-height: 60px;
+    border-bottom: solid thin;
+}
+.filter{
+    float: right;
+}

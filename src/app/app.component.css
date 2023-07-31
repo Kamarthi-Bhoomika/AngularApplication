@@ -1,0 +1,27 @@
+
+header{
+    width: 100%;
+    padding: 20px 50px;
+    background-color: dodgerblue;
+    display: flex;
+    align-items: center;
+}
+header ul{
+    display: flex;
+    
+}
+header ul li{
+    margin-left: 20px;
+}
+header ul li a{
+    padding: 5px 10px;
+    font-weight: 500;
+    color: white;
+}
+header h2{
+    color: white;
+}
+header ul li a:hover{
+    background-color: white;
+    color: black;
+}
